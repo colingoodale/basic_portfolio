@@ -1,0 +1,78 @@
+#backdrop {
+    background-color: #ffffff
+}
+#headerdiv {
+    width: 100%;
+    height: 70px;
+    background-color: #c4c7c9;
+}
+#frontpagename {
+    background-color: aqua;
+    float: left;
+    text-align: center;
+}
+.container {
+    background-color: rgb(156, 179, 180);
+    height: 500px;
+    width: 960px;
+    margin: 0 auto;
+}
+#aboutmetitle {
+    padding-left: 50px;
+}
+img {
+    width: 225px;
+    height: 300px;
+    margin-right: 50px;
+    margin-left: 75px;
+    }
+
+#aboutlink {
+    background-color: #c4c7c9;
+    height:50px;
+    width: 90px;
+    float: right;
+    font-size: 24;
+    color: white;
+    text-align: center;
+}
+#portfolio {
+    background-color:#c4c7c9;
+    height: 50px;
+    width: 90px;
+    float: right; 
+    font-size: 24;
+    color: white;
+    text-align: center; 
+}
+#contact {
+    background-color: #c4c7c9;
+    height:50px;
+    width: 90px;
+    float: right;
+    font-size: 24;
+    color: white;
+    text-align: center;
+}
+#headshot {
+    Height: 23%;
+    Width: 17%;
+    float: left;
+}
+ #firstparagraph {
+     font-size: 16;
+ }
+ #secondparagraph {
+     font-size: 16;
+ }
+ #footerbar {
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+     height: 45px;
+     border: 15px 0px 0px 0px;
+     background-color: grey;
+     border-style: solid;
+     border-width: 15px 0px 0px 0px;
+     border-color: aqua;
+ }

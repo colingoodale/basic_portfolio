@@ -7,12 +7,12 @@
     background-color: #FFFFFF;
 }
 #frontpagename {
-    background-color: aqua;
+    background-color: #FFFFFF;
     float: left;
     text-align: center;
 }
 .container {
-    background-color: rgb(156, 179, 180);
+    background-color: #FAFAFA;
     height: 500px;
     width: 960px;
     margin: 0 auto;
@@ -21,37 +21,37 @@
     padding-left: 50px;
 }
 img {
-    width: 225px;
     height: 300px;
+    width: 400px;
     margin-right: 50px;
     margin-left: 75px;
-    }
+}
 
 #aboutlink {
-    background-color: #c4c7c9;
+    background-color: #FFFFFF;
     height:50px;
     width: 90px;
     float: right;
     font-size: 24;
-    color: white;
+    color: black;
     text-align: center;
 }
 #portfolio {
-    background-color:#c4c7c9;
+    background-color:#FFFFFF;
     height: 50px;
     width: 90px;
     float: right; 
     font-size: 24;
-    color: white;
+    color: Black;
     text-align: center; 
 }
 #contact {
-    background-color: #c4c7c9;
+    background-color: #FFFFFF;
     height:50px;
     width: 90px;
     float: right;
     font-size: 24;
-    color: white;
+    color: black;
     text-align: center;
 }
 #headshot {
@@ -76,3 +76,9 @@ img {
      border-width: 15px 0px 0px 0px;
      border-color: aqua;
  }
+#imagediv{
+    
+}
+Body{
+    background-color:#FAFAFA
+}

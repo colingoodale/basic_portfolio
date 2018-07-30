@@ -12,12 +12,27 @@
     <div id=backdrop>
         <div id="headerdiv">
             <h1 id="frontpagename">Colin Goodale</h1>
-                <p id="contact">Contact</p>
-                <p id="portfolio">Portfolio</p>
-                <p id="aboutlink" class="aboutlink">About</p>
+            <a href="./contact.html" id="contact">Contact</a>
+            <a href="./protfolio.html" id="portfolio">Portfolio</a>
+            <a href="index.html" id="aboutlink" class="aboutlink">About</a>
         </div>
         <div class="container">
-            
+            <h1 class="maintitle">Contact</h1>
+            <div id='form'>
+                <form action="/action_page.php">
+                    <label for="fname">First Name</label>
+                    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                  
+                    <label for="lname">Last Name</label>
+                    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+                    <label for="email">Email</label>
+                    <input type="text" id="email" name="lastname" placeholder="Your Email...">
+
+                    
+                    <input type="submit" value="Submit">
+                    </form>
+            </div>
         </div>
     </div>
     <div id="footerbar"></div>       
